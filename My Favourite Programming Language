@@ -4,7 +4,8 @@ int main (){
 	
 	char s[100];
 	
-	printf("Richard Albert Lico\nC language programming");
+	printf("Richard Albert Lico\n");
+	printf("My Favourite Programming Language is C\n");
 	
 	return 0;
 }
