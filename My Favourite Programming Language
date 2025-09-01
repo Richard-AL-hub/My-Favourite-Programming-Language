@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main (){
+	
+	char s[100];
+	
+	printf("Richard Albert Lico\nC language programming");
+	
+	return 0;
+}
